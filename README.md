@@ -1,1 +1,1 @@
-# python_projects
+This project involves exploratory data analysis (EDA) on a movie dataset using Python. The goal is to extract meaningful insights and trends from the data related to various aspects of movies like , ratings, runtime, etc. 
